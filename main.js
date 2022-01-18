@@ -1,5 +1,5 @@
-import Game from "./Game.js";
-import GameView from "./GameView.js";
+import Game from "./game.js";
+import GameView from "./gameview.js";
 
 let game = new Game();
 let gameView = new GameView(document.getElementById("app"));
